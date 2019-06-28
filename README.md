@@ -1,6 +1,6 @@
 # Server-Client-Auction
 ## Description
-This is an action project made in 2017
+This is an action project made in 2017.
 ## How to open 
 You will need to download the server, cliente and db files. The server file and the db file should be in the same directory.
 Open at least two different terminal windows, in one you are going to open the server file, in the other one you are going to open the client file.
